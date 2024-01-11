@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera Over",
+    "precio": 5000,
+    "img": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Hoodie Batik",
+    "precio": 17000,
+    "img": "https://plus.unsplash.com/premium_photo-1673827311290-d435f481152e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Hoodie America",
+    "precio": 22000,
+    "img": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Gafas Black",
+    "precio": 8000,
+    "img": "https://plus.unsplash.com/premium_photo-1697183202031-513b9901535d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 1
+  }
+]
